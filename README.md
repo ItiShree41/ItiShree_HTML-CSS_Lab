@@ -8,8 +8,7 @@ b.	Create a nav bar with link 1, link 2, link 3.
 i.	When hovering over link 2 and 3, show a drop down menu for each of them with DD_Link_1,DD_Link_2,DD_Link_3 
 ii.	Apply all the required css properties like width, height, hovering properties, etc.,
 <div align="center">
-![Demo_of_Dropdown](https://github.com/ItiShree41/ItiShree_HTML-CSS_Lab/assets/103059786/37140093-44d2-4cbd-83ee-b7b3698c56e3)
- </div>
+ <img width="408" alt="Demo_of_Dropdown" src="https://github.com/ItiShree41/ItiShree_HTML-CSS_Lab/assets/103059786/37140093-44d2-4cbd-83ee-b7b3698c56e3"></div>
 
 3.	Create a vertical bar graph with the help of animation.
 a.	 when the page is opened/refreshed, 
